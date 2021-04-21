@@ -1,5 +1,10 @@
 Agregando nueva Linea en el file7
 Modificado
 Hola
+<<<<<<< HEAD
 Agrego una lineas
 
+=======
+Agrego una linea
+Hola soy mati
+>>>>>>> 628112ebfb843098aa26737f96bf1f7f01749ce5
