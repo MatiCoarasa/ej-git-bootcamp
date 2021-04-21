@@ -2,7 +2,13 @@ Grupo 5 -IT BOOTCAMP
 
 Integrantes:
 
-Agustina 
-Matias
-Julieta
-Belen Neme
+*Agustina De Pro
+
+
+*Matias Corasa
+
+
+*Julieta Fader
+
+
+*Belen Neme
